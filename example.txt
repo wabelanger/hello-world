@@ -1,0 +1,2 @@
+This is an awesome workshop.
+Git is workng fine for me until now.
